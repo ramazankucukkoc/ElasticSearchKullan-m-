@@ -11,3 +11,7 @@ ElasticSearch, büyük veriler üzerinde sorgulama, içerik arama, veri analizi 
 Windows üzerinde Elasticsearch v7.7.0 indirelim.
 
 https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.7.0-windows-x86_64.zip
+## Çalıştırma
+
+-> cd elasticsearch-7.7.0
+-> .\bin\elasticsearch.bat
