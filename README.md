@@ -16,3 +16,8 @@ https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.7.0-windows
 -> cd elasticsearch-7.7.0
 
 -> .\bin\elasticsearch.bat
+
+http://localhost:9200 üzerinden çalıştıralım.
+
+![image](https://github.com/ramazankucukkoc/ElasticSearchKullanimi/assets/79471806/f374a59a-b423-483f-b91f-ebd1d91713cc)
+
