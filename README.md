@@ -14,4 +14,5 @@ https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.7.0-windows
 ## Çalıştırma
 
 -> cd elasticsearch-7.7.0
+
 -> .\bin\elasticsearch.bat
