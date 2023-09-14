@@ -5,3 +5,9 @@ ElasticSearch, büyük veriler üzerinde sorgulama, içerik arama, veri analizi 
 ## Elastic Search Nasıl Implemente Edilir ?
 
 .Net tarafında NEST (.NET client for Elasticsearch) kütüphanesi ile implemente edilebilmektedir.
+
+##Elastic Search Kurulumu
+
+Windows üzerinde Elasticsearch v7.7.0 indirelim.
+
+https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.7.0-windows-x86_64.zip
